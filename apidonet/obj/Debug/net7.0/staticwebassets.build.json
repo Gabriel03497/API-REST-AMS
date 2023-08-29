@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nLjnRGNrfnCPcaiuYQcuiJqlUFpaDacEBLnQOluwPjA=",
+  "Source": "apidonet",
+  "BasePath": "_content/apidonet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
